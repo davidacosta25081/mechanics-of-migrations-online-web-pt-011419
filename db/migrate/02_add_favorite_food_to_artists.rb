@@ -5,4 +5,4 @@ class AddFavoriteFoodToArtists < ActiveRecord::Migration[5.1]
     :favorite_food, :string
   end
 
-end   
+end
